@@ -7,7 +7,7 @@ const Form = () => {
 
                 <div class="flex items-center justify-center font-[poppins]">
 
-                    <div class="mx-auto w-full px-8 py-4 ">
+                    <div class="mx-auto w-full md:px-8 py-4 ">
 
                         
 

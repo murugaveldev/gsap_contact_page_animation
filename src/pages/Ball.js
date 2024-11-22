@@ -184,8 +184,8 @@ const Ball = () => {
                 },
                 x: 0,
                 y: 10,
-                rotation: 150,
-                scale: 5,
+                rotation: -150,
+                scale: 7,
                 duration: 120,
                 ease: "power2.inOut"
             })
@@ -216,11 +216,12 @@ const Ball = () => {
                     scrub: 1.5,
                     // markers: true
                 },
-                x: 0,
+                x: 12,
                 y: 200,
-                rotation: 200,
+                z: 400,
+                rotation: 300,
                 duration: 30,
-                scale: 4,
+                scale: 6,
                 ease: "power1.inOut"
             })
 

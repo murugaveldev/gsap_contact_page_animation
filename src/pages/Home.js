@@ -188,12 +188,12 @@ const Home = () => {
                     </div>
                 </section>
 
-                <section className='h-[150vh] md:h-screen bg-sky-100 pt-20 pb-20' id='fourthsection'>
+                <section className='h-[130vh] md:h-screen bg-sky-100 pt-20 pb-20' id='fourthsection'>
                     <div className='h-full' >
 
-                        <div>
+                        <div className='px-4'>
                             <h2 className='text-[28px] font-semibold text-center uppercase'>find us </h2>
-                            <p className='w-[80%] mx-auto text-center text-[14px] italic font-mono text-gray-600'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                            <p className='w-full md:w-[80%] mx-auto text-center text-[10px] md:text-[14px] italic font-mono text-gray-600'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                         </div>
 
                         <div className='flex flex-col md:flex-row items-center justify-center'>
@@ -205,7 +205,7 @@ const Home = () => {
                             <div className='w-full md:w-[70%] mx-auto'>
                                 <div className='flex justify-center px-4 md:px-20 items-center mt-8 md:mt-20 rounded-xl overflow-hidden'>
                                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3557.8780374128833!2d80.21693680053875!3d13.045690409393439!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5266e57e6bec73%3A0xd7246c6b177d9129!2sVishnu%20Ads%20And%20Ventures%20Private%20Limited!5e1!3m2!1sen!2sin!4v1732001656668!5m2!1sen!2sin"
-                                        className='h-[18rem] md:h-[24rem] w-full  rounded-xl border border-gray-500' allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                        className='h-[15rem] md:h-[24rem] w-full  rounded-xl border border-gray-500' allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                 </div>
                             </div>
 

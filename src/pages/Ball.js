@@ -50,12 +50,12 @@ const Ball = () => {
                     end: "bottom 80%",
                     scrub: 1.5,
                     toggleActions: "play none pause reverse",
-                    markers: true
+                    // markers: true
                 },
                 x: -400,
                 y: 10,
                 rotation: 140,
-                scale: 6,
+                scale: 8,
                 duration: 80,
                 ease: "power2.inOut"
             });
@@ -72,7 +72,7 @@ const Ball = () => {
                 x: 400,
                 y: -10,
                 rotation: 150,
-                scale: 6,
+                scale: 8,
                 duration: 120,
                 ease: "power2.inOut"
             })
@@ -163,12 +163,12 @@ const Ball = () => {
                     end: "bottom 80%",
                     scrub: 1.5,
                     toggleActions: "play none pause reverse",
-                    markers: true
+                    // markers: true
                 },
                 x: 0,
                 y: 30,
-                rotation: 190,
-                scale: 4,
+                rotation: 220,
+                scale: 6,
                 duration: 80,
                 ease: "power2.inOut"
             });
@@ -203,7 +203,7 @@ const Ball = () => {
                 y: 10,
                 rotation: -180,
                 duration: 130,
-                scale: 55,
+                scale: 85,
                 ease: "power1.inOut"
             })
 
@@ -261,11 +261,6 @@ const Ball = () => {
             })
 
         })
-
-
-
-
-
 
 
         return () => mm.revert();

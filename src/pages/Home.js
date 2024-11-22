@@ -4,7 +4,7 @@ import gsap from 'gsap'
 import { ScrollTrigger } from 'gsap/ScrollTrigger'
 
 
-import gifOne from '../images/phone.png'
+import gifOne from '../images/ads.png'
 import gifTwo from '../images/world.png'
 
 
@@ -57,7 +57,7 @@ const Home = () => {
 
 
                         <div className='z-30 flex flex-col items-center'>
-                            <h1 className='text-[3rem] md:text-[13rem] text-center font-bold md:mt-28 uppercase font-[poppins] bg-clip-text text-gray-950 animate-bounce duration-1000 delay-1000' id='text'>Contact us  </h1>
+                            <h1 className='text-[3rem] md:text-[13rem] text-center font-bold md:mt-28 uppercase font-[poppins] bg-clip-text text-gray-950 text-bounce ' id='text'>Contact us  </h1>
                             <p className='text-[10px] md:text-[14px] text-center font-semibold italic'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                         </div>
                     </div>

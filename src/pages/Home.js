@@ -94,7 +94,7 @@ const Home = () => {
                 </section>
 
 
-                <section className='h-[170vh] md:h-screen bg-black pt-20 pb-20' id='secondsection'>
+                <section className='h-[165vh] md:h-screen bg-black pt-20 pb-20' id='secondsection'>
                     <div className='h-full' >
 
                         <div className='flex flex-col md:flex-row justify-center items-center'>
@@ -102,7 +102,7 @@ const Home = () => {
                             <div className='w-full md:w-[50%] flex justify-center items-center h-full mx-auto'>
 
                                 <div className=' h-full px-4 md:px-24  mt-6 z-30 md:mt-10'>
-                                    <div className='grid grid-cols-1 gap-y-8'>
+                                    <div className='grid grid-cols-1 gap-y-12'>
 
                                         <div className='bg-white px-6 py-4 flex flex-col gap-y-6 rounded-md'>
                                             <div className='flex items-center gap-x-6'>
@@ -113,7 +113,7 @@ const Home = () => {
                                                 </div>
                                             </div>
                                             <div>
-                                                <p className='text-gray-700  font-semibold'>No.271A, 3rd Floor, Maan Sarovar Tower, Scheme Road, Teynampet, Chennai - 600018 India</p>
+                                                <p className='text-gray-700  font-semibold text-[12px] md:text-[16px]'>No.271A, 3rd Floor, Maan Sarovar Tower, Scheme Road, Teynampet, Chennai - 600018 India</p>
                                             </div>
                                         </div>
                                         <div className='bg-white px-6 py-4 flex flex-col gap-y-6 rounded-md'>
@@ -125,7 +125,7 @@ const Home = () => {
                                                 </div>
                                             </div>
                                             <div>
-                                                <p className='text-gray-700 font-semibold'>No.271A, 3rd Floor, Maan Sarovar Tower, Scheme Road, Teynampet, Chennai - 600018 India</p>
+                                                <p className='text-gray-700 font-semibold text-[12px] md:text-[16px]'>No.271A, 3rd Floor, Maan Sarovar Tower, Scheme Road, Teynampet, Chennai - 600018 India</p>
                                             </div>
                                         </div>
                                         <div className='bg-white px-6 py-4 flex flex-col gap-y-6 rounded-md'>
@@ -137,7 +137,7 @@ const Home = () => {
                                                 </div>
                                             </div>
                                             <div>
-                                                <p className='text-gray-700 font-semibold'>No.271A, 3rd Floor, Maan Sarovar Tower, Scheme Road, Teynampet, Chennai - 600018 India</p>
+                                                <p className='text-gray-700 font-semibold text-[12px] md:text-[16px]'>No.271A, 3rd Floor, Maan Sarovar Tower, Scheme Road, Teynampet, Chennai - 600018 India</p>
                                             </div>
                                         </div>
 
@@ -168,7 +168,7 @@ const Home = () => {
                                         <div className='flex flex-col gap-y-2 items-center justify-center gap-x-6'>
 
                                             <h3 className='flex justify-center items-center text-center uppercase text-[18px] font-semibold'>Get Qoute</h3>
-                                            <p className='text-gray-700 text-center font-semibold'>No.271A,  Scheme Road, Teynampet, Chennai - 600018 India</p>
+                                            <p className='text-gray-700 text-center  text-[12px] md:text-[16px] font-semibold'>No.271A,  Scheme Road, Teynampet, Chennai - 600018 India</p>
 
                                         </div>
                                         <div className='flex justify-center items-center'>
